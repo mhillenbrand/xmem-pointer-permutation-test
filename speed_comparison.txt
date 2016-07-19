@@ -1,0 +1,5 @@
+ * speed comparison
+    32 MiB
+	- external shuffle 5.183s 5.279s 5.127s
+	- X-Mem 4.931s 4.998s 4.959s
+

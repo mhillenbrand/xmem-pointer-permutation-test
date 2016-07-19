@@ -1,0 +1,804 @@
+26external_shuffle_generator: list of 128 elements.
+26external_shuffle_generator: found cycle of length 128 (i.e., covering 100%) on index 0
+
+Histogram of stride lengths
+[     -128;     -115) **                                       (1)
+[     -115;     -102)                                          (0)
+[     -102;      -89) ******                                   (3)
+[      -89;      -76) *************                            (6)
+[      -76;      -64) *************                            (6)
+[      -64;      -51) ***************                          (7)
+[      -51;      -38) ************************                 (11)
+[      -38;      -25) ********************                     (9)
+[      -25;      -12) ************************                 (11)
+[      -12;        0) *****************                        (8)
+[        0;       12) **********************                   (10)
+[       12;       25) **********************                   (10)
+[       25;       38) **************************************** (18)
+[       38;       51) ******                                   (3)
+[       51;       64) **********************                   (10)
+[       64;       76) ********                                 (4)
+[       76;       89) *************                            (6)
+[       89;      102) ****                                     (2)
+[      102;      115) ****                                     (2)
+[      115;      128) **                                       (1)
+
+26external_shuffle_generator: list of 1024 elements.
+26external_shuffle_generator: found cycle of length 1024 (i.e., covering 100%) on index 0
+
+Histogram of stride lengths
+[    -1024;     -921) **                                       (5)
+[     -921;     -819) *********                                (22)
+[     -819;     -716) *************                            (33)
+[     -716;     -614) ***************                          (38)
+[     -614;     -512) ******************                       (45)
+[     -512;     -409) **********************                   (53)
+[     -409;     -307) **********************                   (54)
+[     -307;     -204) ***********************************      (85)
+[     -204;     -102) ******************************           (72)
+[     -102;        0) **************************************   (92)
+[        0;      102) **************************************** (96)
+[      102;      204) **********************************       (83)
+[      204;      307) *********************************        (81)
+[      307;      409) *****************************            (71)
+[      409;      512) *****************************            (71)
+[      512;      614) ******************                       (44)
+[      614;      716) ************                             (30)
+[      716;      819) ***********                              (27)
+[      819;      921) ******                                   (15)
+[      921;     1024) **                                       (7)
+
+26external_shuffle_generator: list of 6291456 elements.
+26external_shuffle_generator: found cycle of length 6291456 (i.e., covering 100%) on index 0
+
+Histogram of stride lengths
+[ -6291456; -5662310) **                                       (31751)
+[ -5662310; -5033164) ******                                   (94336)
+[ -5033164; -4404019) **********                               (157365)
+[ -4404019; -3774873) **************                           (219916)
+[ -3774873; -3145728) ******************                       (282948)
+[ -3145728; -2516582) ***********************                  (346047)
+[ -2516582; -1887436) ***************************              (407454)
+[ -1887436; -1258291) *******************************          (472504)
+[ -1258291;  -629145) ***********************************      (534710)
+[  -629145;        0) **************************************** (598929)
+[        0;   629145) ***************************************  (597702)
+[   629145;  1258291) ***********************************      (535199)
+[  1258291;  1887436) *******************************          (471586)
+[  1887436;  2516582) ***************************              (408708)
+[  2516582;  3145728) ***********************                  (345773)
+[  3145728;  3774873) ******************                       (282915)
+[  3774873;  4404019) **************                           (220738)
+[  4404019;  5033164) **********                               (156911)
+[  5033164;  5662310) ******                                   (94504)
+[  5662310;  6291456) **                                       (31460)
+
+26external_shuffle_generator: list of 33554432 elements.
+26external_shuffle_generator: found cycle of length 33554432 (i.e., covering 100%) on index 0
+
+Histogram of stride lengths
+[-33554432;-30198988) **                                       (167552)
+[-30198988;-26843545) ******                                   (503653)
+[-26843545;-23488102) **********                               (839301)
+[-23488102;-20132659) **************                           (1174300)
+[-20132659;-16777216) ******************                       (1508544)
+[-16777216;-13421772) ***********************                  (1845474)
+[-13421772;-10066329) ***************************              (2182821)
+[-10066329; -6710886) *******************************          (2517626)
+[ -6710886; -3355443) ***********************************      (2849230)
+[ -3355443;        0) **************************************** (3189688)
+[        0;  3355443) ***************************************  (3188806)
+[  3355443;  6710886) ***********************************      (2849695)
+[  6710886; 10066329) *******************************          (2515545)
+[ 10066329; 13421772) ***************************              (2180853)
+[ 13421772; 16777216) ***********************                  (1847920)
+[ 16777216; 20132659) ******************                       (1510050)
+[ 20132659; 23488102) **************                           (1172721)
+[ 23488102; 26843545) **********                               (839891)
+[ 26843545; 30198988) ******                                   (502904)
+[ 30198988; 33554432) **                                       (167858)
+
+19XMem_list_generator: list of 128 elements.
+19XMem_list_generator: found cycle of length 98 (i.e., covering 76.5625%) on index 0
+
+Histogram of stride lengths
+[     -128;     -115)                                          (0)
+[     -115;     -102) ******                                   (2)
+[     -102;      -89) **********                               (3)
+[      -89;      -76) ******                                   (2)
+[      -76;      -64) ******                                   (2)
+[      -64;      -51) ****************                         (5)
+[      -51;      -38) *********************************        (10)
+[      -38;      -25) ******************************           (9)
+[      -25;      -12) ******************************           (9)
+[      -12;        0) ********************                     (6)
+[        0;       12) ********************                     (6)
+[       12;       25) *********************************        (10)
+[       25;       38) ******************************           (9)
+[       38;       51) **************************************** (12)
+[       51;       64) **********                               (3)
+[       64;       76) **********                               (3)
+[       76;       89) **********                               (3)
+[       89;      102) ******                                   (2)
+[      102;      115) ***                                      (1)
+[      115;      128) ***                                      (1)
+
+19XMem_list_generator: list of 1024 elements.
+19XMem_list_generator: found cycle of length 826 (i.e., covering 80.6641%) on index 0
+
+Histogram of stride lengths
+[    -1024;     -921) *                                        (3)
+[     -921;     -819) ******                                   (13)
+[     -819;     -716) **********                               (21)
+[     -716;     -614) *****************                        (34)
+[     -614;     -512) ****************                         (33)
+[     -512;     -409) *******************                      (38)
+[     -409;     -307) ************************                 (49)
+[     -307;     -204) ******************************           (61)
+[     -204;     -102) ***************************************  (79)
+[     -102;        0) **************************************** (80)
+[        0;      102) *************************************    (74)
+[      102;      204) **************************************   (76)
+[      204;      307) *********************************        (67)
+[      307;      409) *******************************          (63)
+[      409;      512) ******************                       (37)
+[      512;      614) ****************                         (32)
+[      614;      716) *************                            (27)
+[      716;      819) **************                           (29)
+[      819;      921) ***                                      (6)
+[      921;     1024) **                                       (4)
+
+19XMem_list_generator: list of 6291456 elements.
+19XMem_list_generator: found cycle of length 5054302 (i.e., covering 80.336%) on index 0
+
+Histogram of stride lengths
+[ -6291456; -5662310) **                                       (25452)
+[ -5662310; -5033164) ******                                   (75802)
+[ -5033164; -4404019) **********                               (126173)
+[ -4404019; -3774873) **************                           (176841)
+[ -3774873; -3145728) ******************                       (227171)
+[ -3145728; -2516582) ***********************                  (277860)
+[ -2516582; -1887436) ***************************              (330190)
+[ -1887436; -1258291) *******************************          (378220)
+[ -1258291;  -629145) ***********************************      (429910)
+[  -629145;        0) **************************************** (480454)
+[        0;   629145) ***************************************  (479241)
+[   629145;  1258291) ***********************************      (429682)
+[  1258291;  1887436) *******************************          (378477)
+[  1887436;  2516582) ***************************              (328427)
+[  2516582;  3145728) ***********************                  (278078)
+[  3145728;  3774873) ******************                       (227557)
+[  3774873;  4404019) **************                           (177122)
+[  4404019;  5033164) **********                               (126283)
+[  5033164;  5662310) ******                                   (75915)
+[  5662310;  6291456) **                                       (25447)
+
+19XMem_list_generator: list of 33554432 elements.
+19XMem_list_generator: found cycle of length 3972807 (i.e., covering 11.8399%) on index 0
+
+Histogram of stride lengths
+[-33554432;-30198988) **                                       (19800)
+[-30198988;-26843545) ******                                   (59982)
+[-26843545;-23488102) **********                               (98801)
+[-23488102;-20132659) **************                           (139132)
+[-20132659;-16777216) ******************                       (178937)
+[-16777216;-13421772) ***********************                  (218301)
+[-13421772;-10066329) ***************************              (258115)
+[-10066329; -6710886) *******************************          (298043)
+[ -6710886; -3355443) ***********************************      (338122)
+[ -3355443;        0) **************************************** (377710)
+[        0;  3355443) ***************************************  (376192)
+[  3355443;  6710886) ***********************************      (338357)
+[  6710886; 10066329) *******************************          (298368)
+[ 10066329; 13421772) ***************************              (258066)
+[ 13421772; 16777216) ***********************                  (218869)
+[ 16777216; 20132659) ******************                       (177923)
+[ 20132659; 23488102) **************                           (139300)
+[ 23488102; 26843545) **********                               (99232)
+[ 26843545; 30198988) ******                                   (59658)
+[ 30198988; 33554432) **                                       (19899)
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1459965 (i.e., covering 69.6166%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 346337 (i.e., covering 16.5146%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 346337 (i.e., covering 16.5146%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 346337 (i.e., covering 16.5146%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 898837 (i.e., covering 42.8599%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 898837 (i.e., covering 42.8599%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 898837 (i.e., covering 42.8599%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 797742 (i.e., covering 38.0393%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 797742 (i.e., covering 38.0393%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 797742 (i.e., covering 38.0393%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 557146 (i.e., covering 26.5668%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 557146 (i.e., covering 26.5668%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 557146 (i.e., covering 26.5668%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 994946 (i.e., covering 47.4427%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 994946 (i.e., covering 47.4427%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1235282 (i.e., covering 58.9028%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1235282 (i.e., covering 58.9028%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1235282 (i.e., covering 58.9028%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 369843 (i.e., covering 17.6355%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 369843 (i.e., covering 17.6355%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 369843 (i.e., covering 17.6355%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1376733 (i.e., covering 65.6477%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1376733 (i.e., covering 65.6477%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1376733 (i.e., covering 65.6477%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 690074 (i.e., covering 32.9053%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 690074 (i.e., covering 32.9053%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 690074 (i.e., covering 32.9053%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1783353 (i.e., covering 85.0369%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1783353 (i.e., covering 85.0369%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1932379 (i.e., covering 92.143%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1932379 (i.e., covering 92.143%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1082773 (i.e., covering 51.6306%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1082773 (i.e., covering 51.6306%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1082773 (i.e., covering 51.6306%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1730610 (i.e., covering 82.5219%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1730610 (i.e., covering 82.5219%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1284618 (i.e., covering 61.2554%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1284618 (i.e., covering 61.2554%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1284618 (i.e., covering 61.2554%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1147728 (i.e., covering 54.7279%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1147728 (i.e., covering 54.7279%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1147728 (i.e., covering 54.7279%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 572192 (i.e., covering 27.2842%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 572192 (i.e., covering 27.2842%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 572192 (i.e., covering 27.2842%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 481659 (i.e., covering 22.9673%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 481659 (i.e., covering 22.9673%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 481659 (i.e., covering 22.9673%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 270949 (i.e., covering 12.9199%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 270949 (i.e., covering 12.9199%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 270949 (i.e., covering 12.9199%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1496049 (i.e., covering 71.3372%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1496049 (i.e., covering 71.3372%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1496049 (i.e., covering 71.3372%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 4186 (i.e., covering 0.199604%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 4186 (i.e., covering 0.199604%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 4186 (i.e., covering 0.199604%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1836469 (i.e., covering 87.5697%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1836469 (i.e., covering 87.5697%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1836469 (i.e., covering 87.5697%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 885618 (i.e., covering 42.2296%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 885618 (i.e., covering 42.2296%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 251489 (i.e., covering 11.9919%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 251489 (i.e., covering 11.9919%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 251489 (i.e., covering 11.9919%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 962157 (i.e., covering 45.8792%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 962157 (i.e., covering 45.8792%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 962157 (i.e., covering 45.8792%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1246059 (i.e., covering 59.4167%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1246059 (i.e., covering 59.4167%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1246059 (i.e., covering 59.4167%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 2034700 (i.e., covering 97.0221%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 2034700 (i.e., covering 97.0221%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 91959 (i.e., covering 4.38495%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 91959 (i.e., covering 4.38495%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 91959 (i.e., covering 4.38495%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1724683 (i.e., covering 82.2393%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1724683 (i.e., covering 82.2393%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1724683 (i.e., covering 82.2393%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1917291 (i.e., covering 91.4236%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1917291 (i.e., covering 91.4236%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 672887 (i.e., covering 32.0858%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 672887 (i.e., covering 32.0858%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 232714 (i.e., covering 11.0967%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 232714 (i.e., covering 11.0967%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 232714 (i.e., covering 11.0967%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 232714 (i.e., covering 11.0967%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1940026 (i.e., covering 92.5076%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1940026 (i.e., covering 92.5076%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1063652 (i.e., covering 50.7189%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1063652 (i.e., covering 50.7189%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1063652 (i.e., covering 50.7189%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 825744 (i.e., covering 39.3745%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 825744 (i.e., covering 39.3745%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 825744 (i.e., covering 39.3745%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1211095 (i.e., covering 57.7495%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 1211095 (i.e., covering 57.7495%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 263089 (i.e., covering 12.5451%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 263089 (i.e., covering 12.5451%) on index 0
+
+19XMem_list_generator: list of 2097152 elements.
+19XMem_list_generator: found cycle of length 263089 (i.e., covering 12.5451%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+26external_shuffle_generator: list of 2097152 elements.
+26external_shuffle_generator: found cycle of length 2097152 (i.e., covering 100%) on index 0
+
+
+X-Mem: for 2 MiB test case, average coverage of 45.4087% (100 runs)
+
+external shuffle: for 2 MiB test case, average coverage of 100% (100 runs)
