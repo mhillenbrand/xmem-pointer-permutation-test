@@ -1,0 +1,3 @@
+[submodule "X-Mem"]
+	path = X-Mem
+	url = https://github.com/Microsoft/X-Mem.git
